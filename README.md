@@ -1,7 +1,7 @@
 ⛔ IN LAVORAZIONE ⛔
 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
-[![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Pigrecoinfinito/HfcQGIS-ITA.svg?style=flat-square)](https://github.com/Pigrecoinfinito/HfcQGIS-ITA)
+[![HitCount](http://hits.dwyl.io/Pigrecoinfinito/HfcQGIS-ITA.svg)](http://hits.dwyl.io/Pigrecoinfinito/HfcQGIS-ITA)
 [![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
 
 
