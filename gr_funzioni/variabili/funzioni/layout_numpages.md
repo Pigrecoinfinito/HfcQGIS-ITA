@@ -1,0 +1,19 @@
+## Funzione `layout_numpages`
+
+--
+
+## Sintassi
+
+--
+
+## Esempi
+
+<img src="/img/variabili/layout_numpages/layout_numpages1.png">
+
+## nota bene
+
+--
+
+## osservazioni
+
+--
